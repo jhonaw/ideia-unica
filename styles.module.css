@@ -1,0 +1,8 @@
+.h1 {
+    color: red;
+    cursor: default;
+}
+
+.h1:hover {
+    color: blue;
+}

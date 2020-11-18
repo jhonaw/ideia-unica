@@ -1,0 +1,9 @@
+.about {
+    font-size: 50px;
+    margin-left: 20px;
+    color: green;
+    cursor: default;
+}
+.about:hover {
+    color: red;
+}
