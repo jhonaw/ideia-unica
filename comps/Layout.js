@@ -1,12 +1,12 @@
 import React from 'react';
 import Menu from './Menu';
 
-const Layout = ({children}) => {
+const Layout = props => {
     return (
         <div>
             <Menu />
 
-            {children}
+            {props.children}
         </div>
     );
 };
